@@ -1,0 +1,2 @@
+Prefix plugins/CSVSubtract/example/
+Plugin CSVSubtract inputfile parameters.txt outputfile AminusB.csv
